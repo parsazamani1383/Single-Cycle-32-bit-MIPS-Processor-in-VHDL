@@ -94,15 +94,25 @@ to generate the final ALU control signals.
 ---
 ## 📁 Project Structure
 ├── ALU.vhd # Arithmetic Logic Unit
+
 ├── Reg_File.vhd # Register file (32 registers, 32-bit)
+
 ├── Control_Unit.vhd # Main control unit
+
 ├── ALU_Control.vhd # ALU control logic
+
 ├── Instr_Mem.vhd # Instruction memory
+
 ├── Data_Mem.vhd # Data memory
+
 ├── PC.vhd # Program counter
+
 ├── Datapath.vhd # CPU datapath
+
 ├── Cpu_TopLevel.vhd # Top-level CPU module
+
 ├── testbench.vhd # Testbench
+
 └── README.md
 
 ---
