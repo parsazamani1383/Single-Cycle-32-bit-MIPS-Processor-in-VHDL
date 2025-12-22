@@ -183,5 +183,4 @@ and memory access behavior.
 
 This project is intended for educational use.
 
-## 📁 Project Structure
 
